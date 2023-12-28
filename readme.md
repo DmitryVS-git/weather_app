@@ -26,4 +26,3 @@ Please, enter the city: Sarov
         weather: overcast clouds
         --------------------------------------
 ```
-4. Test
